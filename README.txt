@@ -13,7 +13,7 @@ Plans:
 50 Mbps - Rs 459/month
 75 Mbps - Rs 559/month
 100 Mbps - Rs 759/month
-200 Mbps - Rs 999/month (temporary suggested price)
+200 Mbps - Rs 959/month (temporary suggested price)
 
 Offers:
 - 6 months + 1 month FREE, applicable on plans above 50 Mbps (75 Mbps and above).
